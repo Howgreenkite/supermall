@@ -1,6 +1,15 @@
 <template>
   <div id="nav">
     <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
+    <h2>呵呵哈哈哈或或</h2>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
